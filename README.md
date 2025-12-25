@@ -2,7 +2,7 @@
 
 Design your own electronic bean bag with score and sounds to the classic backyard game, featuring reset score button and sometimes even a musical score sound for multi-game fun, perfect for parties, family nights, or carnival-style play with scoring features like automatic point tracking for competitive play. 
 
-![Zilla BeanBag](https://drive.google.com/file/d/1MtpPobizPlnfvOy41udNLDdEAf0buZMs/view?usp=drive_link)
+![Zilla BeanBag](https://drive.google.com/file/d/1MtpPobizPlnfvOy41udNLDdEAf0buZMs/view?usp=sharing)
 
 
 ### Dependencies
