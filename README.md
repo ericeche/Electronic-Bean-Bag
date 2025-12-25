@@ -14,16 +14,15 @@ Guided design to your unique Electronic Bean Bag using the folllowing open sourc
 Open sorce software requirements links :
 * [Blender 3D ](https://www.blender.org/download/)
 * [Arduino Compiler](https://downloads.arduino.cc/)
-* [UltiMaker Cura ]https://ultimaker.com/software/ultimaker-cura/#downloads
+* [UltiMaker Cura ](https://ultimaker.com/software/ultimaker-cura/#downloads)
 
-### Executing program
+### BOM - Bill of Material
 
-* How to run the program
 * Step-by-step bullets
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Description  | Unit Price     | availale at   |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Arduino Nano | $2.92          | [Temu](https://www.google.com/aclk?sa=L&ai=DChsSEwipsLj66NiRAxXkLdQBHYv1Df4YACICCAEQBxoCb2E&co=1&ase=2&gclid=CjwKCAiA3rPKBhBZEiwAhPNFQJMPrUEs3ZZ8kFVIUVxEC6JlUJMIgr6qyum5K9S90QLqWROJWcba6xoCm50QAvD_BwE&cid=CAASugHkaL5WvmNLc-Wa2MKvMF3MkgxetFxyb_cCf7Dr5WynCJGUJ8tVTdSn9skl-9qnkwe8_tDu1lCmo3C6XC1rhPkfbfhd2vttpBayymqN8W5Pj_91QQQ7AUDK9e1nJpY0iIofNeV6xYPKT2HajCXt41RgNsA3mkJzloj6-Hc0Vryb66okjSGUoXRPXT7PF8-e_-9kk95vuays8rLOd85GEyheRRuqagesRD4WmiqPvtdiuCZJsTPY1p4nnhc&cce=2&category=acrcp_v1_32&sig=AOD64_3M8EsVy_2ZigxRTjini0N9wrhtsg&ctype=5&q=&nis=4&ved=2ahUKEwimwrD66NiRAxWF5MkDHUFrHSgQ9aACKAB6BAgGEDo&adurl=)    |
 | git diff     | git diff       | git diff      |
 
 
