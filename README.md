@@ -2,8 +2,8 @@
 
 Design your own electronic bean bag with score and sounds to the classic backyard game, featuring reset score button and sometimes even a musical score sound for multi-game fun, perfect for parties, family nights, or carnival-style play with scoring features like automatic point tracking for competitive play. 
 
-![Zilla Electronic BeanBag](https://drive.google.com/file/d/1MtpPobizPlnfvOy41udNLDdEAf0buZMs/view?usp=sharing)
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Zilla Electronic BeanBag](images/sapo.jpg)
+
 
 ### Dependencies
 
