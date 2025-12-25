@@ -20,10 +20,12 @@ Open sorce software requirements links :
 
 * How to run the program
 * Step-by-step bullets
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
 
 ```
 code blocks for commands
