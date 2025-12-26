@@ -39,7 +39,28 @@ Open sorce software requirements links :
 code blocks for commands
 ```
 
-## Help
+## What you will learn 
+
++ Class I 
+    - Blender 3D principles 
+    - Default scene 
+    - Manuvering around the 3D space
+    - Mesh models
++ Class II 
+    - Moving
+    - Rotating and Scaling objects
+    - Edit Mode
+    - Object Mode
+    - Breadboard bed design
++ Class ||| 
+   - Student idea 3D design
+   - Blender modifiers
++ Class IV 
+   - Design 3D print
+   - Uploading coding Arduino Nano 328
++ Class 5 
+   - Project completion
+   - Student idea presentation
 
 Any advise for common problems or issues.
 ```
@@ -67,6 +88,3 @@ ex. [@ericeche](https://clayplugin.cloud)
 Inspiration, code snippets, etc.
 * [AIDA 3D Plugin, -Eric Echeverri](https://clayplugin.cloud)
 * [Blender 3D Design Course, -Neal Hirsig](https://www.youtube.com/playlist?list=PLxFrfUat2U5PXSs08AZxLt83Adno4mafw)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
