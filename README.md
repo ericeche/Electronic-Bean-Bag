@@ -34,6 +34,7 @@ Open sorce software requirements links :
 | Female-Female cables| $3.95          | [Adafruit](https://www.adafruit.com/product/1949?srsltid=AfmBOoqapDW_XkphRushHz8j787H-CkJBigVUns2pGbOMFtllMPUZE80yik)     |
 | 16mm Pushbutton  | $0.95          | [Adafruit](https://www.adafruit.com/product/1505)     |
 | MAX7219 Display   | $5.39          | [Bangood](https://usa.banggood.com/MAX7219-Dot-Matrix-Module-4-in-1-LED-Display-Module-p-1072083.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=US&utm_content=minha&utm_campaign=aceng-pmax-usg-pc&currency=USD&cur_warehouse=CN&createTmp=1)     |
+| Total   | $41.49         |      |
 
 
 
