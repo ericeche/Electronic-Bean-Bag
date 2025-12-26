@@ -62,10 +62,6 @@ code blocks for commands
    - Project completion
    - Student idea presentation
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
