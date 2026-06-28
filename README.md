@@ -41,22 +41,27 @@ Open sorce software requirements links :
 
 ## What you will learn 
 
-+ Class I 
++ Class I
+    - Student idea 3D scope
     - Blender 3D principles 
     - Default scene 
     - Manuvering around the 3D space
     - Mesh models
+    - AI modeling
+    - Prusa, Ultimaker GeoCode Slicers
 + Class II 
     - Moving
     - Rotating and Scaling objects
     - Edit Mode
     - Object Mode
+    - Blender modifiers
     - Breadboard bed design
 + Class ||| 
-   - Student idea 3D design
+   - Student idea 3D design revised
+   - 
    - Blender modifiers
 + Class IV 
-   - Design 3D print
+   - Design 3D print STL files
    - Uploading coding Arduino Nano 328
 + Class 5 
    - Project completion
