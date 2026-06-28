@@ -16,10 +16,10 @@ Option 1: Instructor Provided Cost
   * Payment Method: Strictly payable via Zelle.
   *  Inclusions: All necessary hardware elements provided directly by the instructor during class.
   
-Option 2: 
-    * Independent Purchase
-    * Action: Students can independently source and buy their own components.
-    * Component List & Links: The official Bill of Materials (BOM), individual pricing, and supplier links (including Amazon and Adafruit) are available on   this repository page: Electronic Bean Bag Repository on GitHub
+Option 2: Independent Purchase
+
+  * Action: Students can independently source and buy their own components.
+  * Component List & Links: The official Bill of Materials (BOM), individual pricing, and supplier links (including Amazon and Adafruit) are available on   this repository page: Electronic Bean Bag Repository on GitHub.
 
 ### Dependencies
 
@@ -54,31 +54,26 @@ Open sorce software requirements links :
 
 ## What you will learn 
 
-+ Class I
-    - Student idea 3D scope
-    - Blender 3D principles 
-    - Default scene 
-    - Manuvering around the 3D space
-    - Mesh models
-    - AI modeling
-    - Prusa, Ultimaker GeoCode Slicers
-+ Class II 
-    - Moving
-    - Rotating and Scaling objects
-    - Edit Mode
-    - Object Mode
-    - Blender modifiers
-    - Breadboard bed design
-+ Class ||| 
-   - Student idea 3D design revised
-   - 
-   - Blender modifiers
-+ Class IV 
-   - Design 3D print STL files
-   - Uploading coding Arduino Nano 328
-+ Class 5 
-   - Project completion
-   - Student idea presentation
++ Class I : Introduction to 3D Space & Ideation
+    - Student Idea 3D Scope: Reviewing individual project goals and concepts
+    - Blender 3D Principles: Navigating the default scene and understanding 3D space coordinates. 
+    - Mesh & AI Modeling: Working with basic mesh structures and AI-assisted design techniques. 
+    - Slicer Overview: Introduction to Prusa and Ultimaker Cura GeoCode slicers.
+  
++ Class II : Object Manipulation & Enclosure Base Design
+    - Transform Tools: Mastering moving, rotating, and scaling objects within the workspace.
+    - Workspace Switching: Transitioning between Edit Mode and Object Mode for detailed adjustments.
+    - Blender Modifiers: Applying parametric tools to manipulate geometric forms efficiently.
+    - Enclosure Base: Designing the functional physical bed layout to house the breadboard hardware
++ Class ||| : Class III: Design Optimization & Revision 
+   - Project Revision: Refining the structural 3D design concepts based on mechanical clearance needs.
+   - Advanced Modifiers: Utilizing complex layout modifiers to shape the game's external housing panels
++ Class IV : Slicing Exports & Microcontroller Programming
+   - STL Export: Compiling and exporting finalized 3D printable files for production.
+   - Arduino Deployment: Writing, compiling, and flashing firmware to the Arduino Nano ATMEGA 328 chip.
++ Class V : Assembly & Final Presentations
+   - Project Completion: Final mechanical assembly, sensor wiring, and hardware system testing.
+   - Student Presentations: Formal demonstration of the fully functional Electronic Frog Hole units or design ideas
 
 
 ## Authors
