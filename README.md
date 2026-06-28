@@ -14,7 +14,7 @@ Guided design to your unique Electronic Bean Bag using the folllowing open sourc
 
    * Blender open source 3D design
    * Arduino ATMega 328 compiler 
-   * UltiMaker Cura 3D GeoCode
+   * UltiMaker Cura 3D GeoCode 
 
 ### Installing
 Open sorce software requirements links :
