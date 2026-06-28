@@ -81,7 +81,7 @@ Open sorce software requirements links :
 Contributors names and contact info:
 
 ex. Eric Echeverri  
-ex. [@ericeche](https://clayplugin.cloud)
+ex. [Contact Support](mailto:lukethor@gmail.com)
 
 ## Version History
 
