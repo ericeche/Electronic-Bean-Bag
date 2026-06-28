@@ -13,7 +13,7 @@ Students have two distinct alternatives for acquiring their project components:
 
 Option 1: Instructor Provided Cost 
   * A flat fee of $50.00.
-  * Payment Method: Strictly payable via Zelle.
+  * Payment Method: Payable via Zelle, Paypal..
   *  Inclusions: All necessary hardware elements provided directly by the instructor during class.
   
 Option 2: Independent Purchase
