@@ -65,7 +65,7 @@ Open sorce software requirements links :
     - Workspace Switching: Transitioning between Edit Mode and Object Mode for detailed adjustments.
     - Blender Modifiers: Applying parametric tools to manipulate geometric forms efficiently.
     - Enclosure Base: Designing the functional physical bed layout to house the breadboard hardware
-+ Class ||| : Class III: Design Optimization & Revision 
++ Class ||| : Design Optimization & Revision 
    - Project Revision: Refining the structural 3D design concepts based on mechanical clearance needs.
    - Advanced Modifiers: Utilizing complex layout modifiers to shape the game's external housing panels
 + Class IV : Slicing Exports & Microcontroller Programming
