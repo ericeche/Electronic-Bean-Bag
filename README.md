@@ -1,12 +1,25 @@
 # Electronic Frog Hole
 
-Design your own electronic bean bag with score and sounds to the classic backyard game, featuring reset score button and sometimes even a musical score sound for multi-game fun, perfect for parties, family nights, or carnival-style play with scoring features like automatic point tracking for competitive play. 
+The objective of this course is to modernize a classic coin/bean bag toss game into an interactive, 3D-printed tabletop electronic version named Electronic Frog Hole. Players toss small bean bags, coins, or tokens into the frog's mouth or surrounding holes. The system automatically tracks points, displays the score, and plays specific sound effects or musical scores based on the targets hit. Students are highly encouraged to think outside the box and come up with their own creative variations, unique themes, or custom scoring ideas to personalize their final builds. 
 
 ![Zilla Electronic BeanBag](images/sapo1.png )
 
 ### Click on the following image to watch Electronic Bean Bag ideas.
 [![Watch the video](images/sapovideo.png)](https://youtu.be/-uvuNNrWJJc)
 
+### Budget & Material Procurement Options
+
+Students have two distinct alternatives for acquiring their project components:
+
+Option 1: Instructor Provided Cost 
+  * A flat fee of $50.00.
+  * Payment Method: Strictly payable via Zelle.
+  *  Inclusions: All necessary hardware elements provided directly by the instructor during class.
+  
+Option 2: 
+    * Independent Purchase
+    * Action: Students can independently source and buy their own components.
+    * Component List & Links: The official Bill of Materials (BOM), individual pricing, and supplier links (including Amazon and Adafruit) are available on   this repository page: Electronic Bean Bag Repository on GitHub
 
 ### Dependencies
 
