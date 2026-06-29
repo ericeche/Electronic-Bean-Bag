@@ -1,4 +1,4 @@
-# Electronic Frog Hole
+# Electronic Bean Bag
 
 The objective of this course is to modernize a classic coin/bean bag toss game into an interactive, 3D-printed tabletop electronic version named Electronic Frog Hole. Players toss small bean bags, coins, or tokens into the frog's mouth or surrounding holes. The system automatically tracks points, displays the score, and plays specific sound effects or musical scores based on the targets hit. Students are highly encouraged to think outside the box and come up with their own creative variations, unique themes, or custom scoring ideas to personalize their final builds. 
 
